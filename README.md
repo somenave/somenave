@@ -21,7 +21,7 @@
 ---
 
 ### ⚙️ GitHub Analytics
-<!-- 
+
 <table>
   <tr>
     <td>
@@ -31,11 +31,11 @@
       <img height="195px" align="right" alt="my Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=somenave&theme=algolia&layout=compact" />
     </td>
   </tr>
-</table> -->
+</table>
 
 ---
 ## Connect with me
 [<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/github.png' alt='github' height='30'>](https://github.com/somenave)[<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/twitter.png' alt='twitter' height='30'>](https://github.com/somenave)[<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/instagram.png' alt='instagram' height='30'>](https://github.com/somenave)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somenave)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somenave)](https://github.com/anuraghazra/github-readme-stats) -->
 
