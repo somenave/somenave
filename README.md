@@ -17,8 +17,8 @@
 ---
 
 ### 🛠 Tools:
-<img alt="git" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/git.png" />&nbsp;<img alt="github" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/github.png" />&nbsp;<img alt="vscode" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/vscode.png" />&nbsp;<img alt="node js" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/nodejs.png" />&nbsp;<img alt="npm" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/npm.png" />&nbsp;
-
+<img alt="git" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/git.png" />&nbsp;<img alt="github" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/github.png" />&nbsp;<img alt="vscode" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/vscode.png" />&nbsp;<img alt="npm" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/npm.png" />&nbsp;
+<!-- <img alt="node js" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/nodejs.png" />&nbsp; -->
 ---
 
 ### ⚙️ GitHub Analytics
