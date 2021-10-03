@@ -11,7 +11,8 @@
 ---
 
 ### 💻 Tech Stack: 
-<img alt="html" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/html.png" />&nbsp;<img alt="css" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/css.png" />&nbsp;<img alt="sass" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/sass.png" />&nbsp;<img alt="javascript" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/javascript.png" />&nbsp;<img alt="react" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/react.png" />&nbsp;<img alt="typescript" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/typescript.png" />&nbsp;<img alt="wordpress" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/wordpress.png" />&nbsp;
+<img alt="html" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/html.png" />&nbsp;<img alt="css" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/css.png" />&nbsp;<img alt="sass" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/sass.png" />&nbsp;<img alt="javascript" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/javascript.png" />&nbsp;<img alt="react" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/react.png" />&nbsp;
+<!-- <img alt="typescript" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/typescript.png" />&nbsp;<img alt="wordpress" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/wordpress.png" />&nbsp; -->
 
 ---
 
