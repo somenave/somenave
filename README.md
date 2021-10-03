@@ -21,7 +21,7 @@
 ---
 
 ### ⚙️ GitHub Analytics
-
+<!-- 
 <table>
   <tr>
     <td>
@@ -31,7 +31,7 @@
       <img height="195px" align="right" alt="my Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=somenave&theme=algolia&layout=compact" />
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 ## Connect with me
