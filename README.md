@@ -8,7 +8,8 @@
 
 ---
 
-### 💻 Tech Stack: <img alt="html" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/html.png" />&nbsp; <img alt="css" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/css.png" />&nbsp; <img alt="sass" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/sass.png" />&nbsp; <img alt="javascript" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/javascript.png" />&nbsp; <img alt="react" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/react.png" />&nbsp; <img alt="typescript" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/typescript.png" />&nbsp; <img alt="wordpress" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/wordpress.png" />&nbsp;
+### 💻 Tech Stack: 
+#<img alt="html" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/html.png" />&nbsp;<img alt="css" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/css.png" />&nbsp;<img alt="sass" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/sass.png" />&nbsp;<img alt="javascript" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/javascript.png" />&nbsp;<img alt="react" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/react.png" />&nbsp;<img alt="typescript" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/typescript.png" />&nbsp;<img alt="wordpress" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/wordpress.png" />&nbsp;
 <!-- JS / REACT / HTML / CSS / SCSS / BOOTSTRAP -->
 
 - 🔭 I’m currently working on developing my portfolio and creating new web applications 
@@ -17,15 +18,7 @@
 ---
 
 ### 🛠 Tools:
-
-<!-- <img alt="git" src="https://img.shields.io/badge/git-F05033.svg?&style=for-the-badge&logo=git&logoColor=fff" />&nbsp; -->
-<img alt="git" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/git.png" />&nbsp;
-<!-- <img alt="github" src="https://img.shields.io/badge/github-000.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp; -->
-<img alt="github" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/github.png" />&nbsp;
-<!-- <img alt="vs code" src="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp; -->
-<img alt="vscode" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/vscode.png" />&nbsp;
-<img alt="node js" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/nodejs.png" />&nbsp;
-<img alt="npm" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/npm.png" />&nbsp;
+#<img alt="git" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/git.png" />&nbsp;<img alt="github" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/github.png" />&nbsp;<img alt="vscode" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/vscode.png" />&nbsp;<img alt="node js" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/nodejs.png" />&nbsp;<img alt="npm" src="https://raw.githubusercontent.com/somenave/somenave/main/icons/npm.png" />&nbsp;
 
 ---
 
@@ -44,9 +37,7 @@
 
 ---
 ## Connect with me
-[<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/github.png' alt='github' height='30'>](https://github.com/somenave)
-[<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/twitter.png' alt='twitter' height='30'>](https://github.com/somenave)  
-[<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/instagram.png' alt='instagram' height='30'>](https://github.com/somenave)  
+#[<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/github.png' alt='github' height='30'>](https://github.com/somenave)[<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/twitter.png' alt='twitter' height='30'>](https://github.com/somenave)[<img src='https://raw.githubusercontent.com/somenave/somenave/main/icons/instagram.png' alt='instagram' height='30'>](https://github.com/somenave)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somenave)](https://github.com/anuraghazra/github-readme-stats)
 
