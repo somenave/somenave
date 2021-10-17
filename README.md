@@ -1,13 +1,13 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!--### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">-->
 <!--### I am a *web-developer*-->
 <!-- ![I am a *web-developer*](https://raw.githubusercontent.com/somenave/somenave/main/banner.webp) -->
-
+<!--
  ## I’m web-developer from Russia
 - 📚 1+ Years of training in Front-end Development
 - 👨‍💻 Front-end Enthusiast 
 - 🔭 I’m currently working on developing my portfolio and creating new web applications 
 - 🌱 I’m currently learning JavaScript, React, Redux 
-
+-->
 ---
 
 ### 💻 Tech Stack: 
